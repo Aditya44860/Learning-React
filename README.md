@@ -1,12 +1,23 @@
-# React + Vite
+# 🎬 Movie Explorer
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Movie Explorer is a **React-based web application** that allows users to **search for movies, explore popular films, and view details** using data fetched from an external movie API. The app is designed to be **responsive, fast, and easy to use**, making it a great project for learning React and working with real-world APIs.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Features
 
-## Expanding the ESLint configuration
+✅ **Movie Search** – Find movies instantly by searching the database  
+✅ **Popular Movies** – Browse trending films dynamically fetched from an API  
+✅ **Responsive Design** – Fully optimized for desktop and mobile devices  
+✅ **React Hooks** – Uses `useState` and `useEffect` for state management  
+✅ **Modern UI** – Styled for a clean and user-friendly experience  
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🛠️ Tech Stack
+
+- **React.js** – Frontend framework
+- **Vite** – Fast development server
+- **React Router** – Client-side navigation
+- **External Movie API** – Fetching movie data
+- **CSS (or Tailwind, if applicable)** – Styling the UI
