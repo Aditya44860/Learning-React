@@ -20,4 +20,4 @@ Movie Explorer is a **React-based web application** that allows users to **searc
 - **Vite** – Fast development server
 - **React Router** – Client-side navigation
 - **External Movie API** – Fetching movie data
-- **CSS (or Tailwind, if applicable)** – Styling the UI
+- **CSS ** – Styling the UI
